@@ -1,4 +1,4 @@
-# Y2 2018 Summer: Forms in Flask
+# Y2 2019 Summer: Forms in Flask
 
 Welcome to forms in Flask! (Note that this comes after
 [routing with Flask](https://github.com/meet-projects/y2s18-routing).)
@@ -12,7 +12,7 @@ Before you start coding, make sure you fork and clone the repository
 for this lab:
 ```
 cd ~/Desktop
-git clone https://github.com/YOUR_GITHUB_USERNAME/y2s19-forms.git
+git clone https://github.com/YOUR_GITHUB_USERNAME/y2s19-flask-forms.git
 ```
 
 ## Warm-up Exercises
