@@ -60,7 +60,7 @@ with `type="submit"` and `value="delete"`. Edit the form element
 so that when submitted, it makes a POST to `/delete/<student_id>`, where
 the `student_id` is of the article currently being viewed. 
 
-*Hint*: You will need to add an `action` attribute to `<form>` so that it directs to the right URL. For example, if we wanted the form to take us to the home page, in the `form` tag we would write: `<form method="/delete/<student_id>`
+*Hint*: You will need to add an `action` attribute to `<form>` so that it directs to the right URL. For example, if we wanted the form to take us to the home page, in the `form` tag we would write: `<form action="/delete/<student_id>`
 
 ### Part 2
 
